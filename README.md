@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a secure, highly available, and scalable AWS architecture for hosting a web application using AWS best practices. The design separates public and private resources, minimizes attack surface, and enables controlled internet access for private workloads.
+This repository showcases a highly available, and scalable AWS architecture for hosting a web application using AWS best practices. The design separates public and private resources, minimizes attack surface, and enables controlled internet access for private workloads.
 
 The architecture is deployed in **us-east-1** and uses **VPC, public/private subnets, Application Load Balancer, Auto Scaling, Bastion Host, NAT Gateway, IAM Roles, and S3**.
 
